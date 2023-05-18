@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQTR.Test", "IQTR.Test\IQTR.Test.csproj", "{3A27B0C3-CB33-4EAE-95B6-A7F4D0A0D0F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{B0CAC85F-AE53-404A-A0A3-5F182713040E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins", "Plugins\Plugins.csproj", "{04E13AA7-3AB7-4910-923C-F89B0D516E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A27B0C3-CB33-4EAE-95B6-A7F4D0A0D0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A27B0C3-CB33-4EAE-95B6-A7F4D0A0D0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A27B0C3-CB33-4EAE-95B6-A7F4D0A0D0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A27B0C3-CB33-4EAE-95B6-A7F4D0A0D0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0CAC85F-AE53-404A-A0A3-5F182713040E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CAC85F-AE53-404A-A0A3-5F182713040E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CAC85F-AE53-404A-A0A3-5F182713040E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CAC85F-AE53-404A-A0A3-5F182713040E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E13AA7-3AB7-4910-923C-F89B0D516E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E13AA7-3AB7-4910-923C-F89B0D516E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E13AA7-3AB7-4910-923C-F89B0D516E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E13AA7-3AB7-4910-923C-F89B0D516E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4457E235-4A3B-4859-9A64-94107568534A}
+	EndGlobalSection
+EndGlobal
