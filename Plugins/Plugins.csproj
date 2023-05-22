@@ -94,9 +94,12 @@
   <ItemGroup>
     <Compile Include="CaseAutoClassification.cs" />
     <Compile Include="CreateContact.cs" />
+    <Compile Include="DeleteContact.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReadContact.cs" />
+    <Compile Include="ReadMultipleContacts.cs" />
     <Compile Include="Template.cs" />
+    <Compile Include="UpdateContact.cs" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AccountCreateGenerateAddress.cs" />
